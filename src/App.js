@@ -21,7 +21,7 @@ const IframeComponent = () => {
     <div style={styles.container}>
       <iframe
         id="myFrame"
-        src="https://case-id-1.transparency-business.com/"
+        src="https://cemanani.glitch.me/"
         style={styles.iframe}
         title="Facebook.com"
       />
